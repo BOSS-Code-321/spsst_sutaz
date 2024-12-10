@@ -1,2 +1,1 @@
-# tatry
-stiahni
+# Vysoké Tatry
